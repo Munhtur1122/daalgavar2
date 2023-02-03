@@ -1,0 +1,50 @@
+.card{
+    max-width: 300px;
+    margin: auto;
+}
+.cardContainer{
+    width: 1000px;
+    height: 600px;
+}
+.Card2Container{
+    width: 100%;
+    height: 300px;
+}
+.Card1{
+    width: 30%;
+    height: 500px;
+    background-color: rgb(243, 243, 243);
+    border: 0.1px solid rgb(168, 167, 167);
+    box-shadow: 1px 1px 1px 1px gray;
+    
+}
+.Card1img{
+    width: 100%;
+    height: 200px;   
+}
+.Card1img img{
+    width: 100%;
+    height: 200px;
+    object-fit: contain;
+}
+.CardText{
+    width: 100%;
+    height: 30px;
+}
+.CardText h2{
+   font-size: 20px;
+   text-align: center;
+}
+.button{
+    text-align: center;
+}
+.but{
+    padding: 15px;
+    width: 90px;
+    margin-top: 100px;
+    cursor: pointer;
+    background: none;
+    border: 2px solid rgb(88, 88, 236);
+    font-size: 17px;
+    
+}
